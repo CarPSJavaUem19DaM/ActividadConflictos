@@ -8,6 +8,7 @@ public class conflictos {
 			System.out.println(colores[i]);
 			System.out.println("Color en la posición " + (i+1) +  "a que mola!");
 			System.out.println(" segundo cambio");
+		
 		}
 
 	}
